@@ -1,5 +1,5 @@
 # Python-Automations
 Python Automations just for fun..!
 
-- [EP.py](https://github.com/nitin42/Python-Automation/blob/master/project_1.py)  - E-mail and phone number extractor
-- [mergepdf.py](https://github.com/nitin42/Python-Automation/blob/master/project2.py)  - Merge PDF to one PDF
+- [EP.py](https://github.com/kuldeep27396/Python-Automations/blob/master/EP.py)  - E-mail and phone number extractor
+- [mergepdf.py](https://github.com/kuldeep27396/Python-Automations/blob/master/mergepdf.py)  - Merge PDF to one PDF
