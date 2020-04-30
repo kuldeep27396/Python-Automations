@@ -1,5 +1,3 @@
-#E-mail and phone number extractor
-
 import pyperclip
 
 import re
@@ -24,7 +22,8 @@ email_regex = re.compile(r'''(
 	(\.[a-z{2,4}])         # dot-something
 	)''', re.VERBOSE)
 
-match =[] # list for storing all the matched found
+match =[] 
+# list for storing all the matched found
 
 for groups in phone_regex.findall(text):
 	phone_number = '-'.join([groups[1],groups[3],groups[5]])
